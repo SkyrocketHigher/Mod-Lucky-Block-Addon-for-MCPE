@@ -1,0 +1,114 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/74VDC8Jw1Ewby1MpI0cfoi69I2GuStIbxUyyyepXS3Z8GDHyhDNp3iFNFBHt-Oe7xibRUfZOjg0n2-OUs8KIShI",
+    "view_skin": "https://lh3.googleusercontent.com/VCLrMrZaVqu73vIDOLm3DxX8ml_oFU6Q2Jp28YOlV0CfxDWFA5y_Qx2nE8xK5vgXiJPq41UOLd-g6eN9_0czTg"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/x7vTlcSWXSuLCFW5vPL2tr2tDy6jBFrkub6hpkUCdmslFVfFJkI_jXnxDiVRNGVgzbwrMSVnQ6w_pJALCCNS",
+    "view_skin": "https://lh3.googleusercontent.com/YaI5jznFSTFPBh-w0MIuJS0N7j8LSxvZWZrNdjAvr_ZH8tio7SF7iRMo6dbMxGEI1YdnpD6PVdOcH0KJevWDkOg"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/749XUjQzSWI4_yk7V9RVjMJb3Z2hnD6kMx9R8gWHcxp67PVBgFW5ymQDOC0zB5vRZyXHhcHOUmTHMqz2pVLS_osiW1_pKXR5zj46",
+    "view_skin": "https://lh3.googleusercontent.com/WtyoVVj77i9zis4yNmcf9UlHLlUOslpMPBNCiGDAV65c16V3KgJVJgqZzf2hCgFtwUFnUhHWGz4YwqI-hqXo5WIg_TdN5F8-qasK"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/ev4pQXF-kOsZlGTmEzTTY5aO19MfenVO-xuM8pzkw7n_C5WtNZCfsk-mcJjiOdjhUJYmeYhA-dlCJ8Egw1zPRfgjlvUcrfbklTc",
+    "view_skin": "https://lh3.googleusercontent.com/I79P-UuJRLrfkBIrSg2zOhVM4ppouh07MeAySJbQ_QExiil9ko5oI2eHZlRckSJLYTrhVVyiYFYKCTQT7hnKudzI7G-RvtZSKm4"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh6.ggpht.com/6--aiXTRjibpoWO0jGXyYmQ4wvOOxvcYSQ5PZF1SYip29QCJY0ma6RaVqEFPhmUqT9A7limd8BjDDoDRHA8kNi4",
+    "view_skin": "https://lh3.googleusercontent.com/i-YwEtS3albguUYu4sgigQGSuUdIyxPsJXRFOQFIe9Cjo0R9n5KXne-Wc0Z89xkslz2WmkcrSOZPLnOT4T-R5A"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
